@@ -1,0 +1,5 @@
+{
+  "name": "RoleMap",
+  "description": "A lightweight organizational intelligence tool that generates visual org charts, responsibility maps, and RACI matrices from LinkedIn profile or resume text.",
+  "requestFramePermissions": []
+}
